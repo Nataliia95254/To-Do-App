@@ -1,9 +1,49 @@
-# React TypeScript Starter Pack
+# Todo App
 
-To use this template click `Use this template`
+A modern, responsive Todo application built with React and TypeScript. This application allows users to manage their tasks efficiently with features like adding, completing, and filtering todos.
 
-### Available Scripts
+## Live Demo
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+[View Live Demo](https://Nataliia95254.github.io/To-Do-Appi/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Features
+
+- ✏️ Add new todos
+- ✅ Mark todos as completed
+- 🗑️ Delete todos
+- 🔍 Filter todos (All, Active, Completed)
+- 📱 Responsive design
+- ⚡ Error handling
+- 🔄 Loading states
+
+## Technologies
+
+- React
+- TypeScript
+- SCSS
+- HTML5
+- CSS3
+- REST API
+
+## Setup Instructions
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Nataliia95254/To-Do-App
+```
+
+2. Navigate to the project directory:
+```bash
+cd To-Do-App
+```
+
+3. Install dependencies:
+```bash
+npm install
+```
+
+4. Start the development server:
+```bash
+npm start
+```
+
