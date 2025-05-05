@@ -4,7 +4,7 @@ A modern, responsive Todo application built with React and TypeScript. This appl
 
 ## Live Demo
 
-[View Live Demo](https://Nataliia95254.github.io/To-Do-Appi/)
+[View Live Demo](https://Nataliia95254.github.io/To-Do-App/)
 
 ## Features
 
